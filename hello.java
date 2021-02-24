@@ -1,5 +1,3 @@
-class demo{
-}
 class Hello{
     public static calFactorial(x){}
     public static void main(String args[])
